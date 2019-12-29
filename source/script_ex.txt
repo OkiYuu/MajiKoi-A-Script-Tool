@@ -1,0 +1,5 @@
+# EXAMPLE BLOCK (if you see gibberish below, make sure you have Japanese locale on.)
+# |#「めんどくさい」 (lines proceeded by # are ignored by packer)
+# |# TL NOTE: Narrator/helpful info (ignored)
+# |「What a pain.」 (keep translation on single line)
+

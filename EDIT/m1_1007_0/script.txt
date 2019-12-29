@@ -1,0 +1,805 @@
+# EXAMPLE BLOCK (if you see gibberish below, make sure you have Japanese locale on.)
+# |#「めんどくさい」 (lines proceeded by # are ignored by packer)
+# |# TL NOTE: Narrator/helpful info (ignored)
+# |「What a pain.」 (keep translation on single line)
+
+# 最初に戻りました
+# TL NOTE: ----
+最初に戻りました
+
+# WHITE.png
+# TL NOTE: -
+WHITE.png
+
+# BLACK
+# -----
+BLACK
+
+# .png
+# ----
+.png
+
+# BG_107_04_1
+# TL NOTE: --
+BG_107_04_1
+
+# 恋人にチョーカーを贈った。恋人はチョーカーがよく似合う。しかし、つけてなくても彼女は美しい。
+# TL NOTE: No speaker
+I gave a choker to my lover. The choker looks good on her. However, she's beautiful even without it.
+
+# @v
+# --
+@v
+
+# 大和
+# ----
+Yamato
+
+# @
+# -
+@
+
+# 俺は、彼女にどうリクエストするか…。
+# TL NOTE: No speaker
+Now, do I want her to wear it or not...?
+
+# 次の選択肢まで進みました
+# TL NOTE: No visible changes
+次の選択肢まで進みました
+
+# 【
+# --
+【
+
+# チョーカーをつけていて欲しい
+# TL NOTE: Choice 1
+I want her to wear the choker
+
+# 】
+# --
+】
+
+# チョーカーをつけてなくてよい
+# TL NOTE: Choice 2
+She doesn't have to wear the choker
+
+# 前の選択肢まで戻りました
+# TL NOTE: Unknown if shows up
+前の選択肢まで戻りました
+
+# SelectMenuTimeLimit.spm
+# TL NOTE: --------
+SelectMenuTimeLimit.spm
+
+# チョーカーをつけてる
+# TL NOTE: Left unchanged
+チョーカーをつけてる
+
+# チョーカーをつけてない
+# TL NOTE: Left unchanged
+チョーカーをつけてない
+
+# @vS032_M1_0001「くっ…殺せ」
+# TL NOTE: Maru
+@vS032_M1_0001「Kuuuu...I'll kill you.」
+
+# マルギッテ
+# -----
+Margit
+
+# ガチャガチャと手錠の音が響く。
+# TL NOTE: Nobody
+The sound of the handcuffs echo.
+
+# 「ふふふ、捕虜になってしまって、辛いだろうな猟犬」
+# TL NOTE: ---------------------
+「Fufufu, I've captured a little prisoner. This is going to be painful, Hound.」
+
+# 大和@敵
+# -------
+Yamato@Enemy
+
+# 「殺すのはいつでも出来る。その前に楽しませてもらうぜ」
+# TL NOTE: (Yamato)
+「I can kill you whenever. But before that, it's time for some entertainment.」
+
+# @vS032_M1_0002「楽しむ…だと？　貴様何をするつもりだ」
+# TL NOTE: Maru
+@vS032_M1_0002「Entertain...ment? What are you going to do to me?」
+
+# 「お前も女なら…分かるだろう。こういうことさ」
+# TL NOTE: (Y)
+「You're a woman...you'll see... ...If you follow what I mean.」
+
+# @vS032_M1_0003「あっ…！？　貴様」
+# TL NOTE: M
+@vS032_M1_0003「Au..!? Bastard!」
+
+# むっちりとしたジーンズを、手が撫でまわした。
+# TL NOTE: -------------
+My hands stroke her tight jeans.
+
+# 女は焦って身体を動かそうとするが、手錠でしっかり捕われているので、それもままならない。
+# TL NOTE: ----------------------------------------
+The woman quickly recoils, but is prompty caught by the handcuffs.
+
+# 「引き締まったいい尻だ、肉がつまってる」
+# TL NOTE: (Y)
+「What a nice, tight, meaty ass...」
+
+# @vS032_M1_0004「気軽に叩くな！」
+# TL NOTE: M
+@vS032_M1_0004「Don't hit it so casually!」
+
+# 「じゃあやっぱり撫で回す方がいいか？」
+# TL NOTE: (Y)
+「So it's okay to stroke it?」
+
+# ジーンズ越しに、デリケートな所を指で撫でられる。
+# TL NOTE: --------------------
+I brush her private parts through her jeans.
+
+# @vS032_M1_0005「くぅっ…！　好き放題に…」
+# TL NOTE: -----------------
+@vS032_M1_0005「Ugh...!　Do whatever you want...」
+
+# 「好き放題するのはこれからだ、ほら」
+# TL NOTE: (Y)
+「Whatever I want, huh?」
+
+# 捕虜の胸が、剥き出しにされた。
+# TL NOTE: -----------
+I expose my captive's breasts.
+
+# 「いい眺めだ」
+# TL NOTE: (Y)
+「What a nice view.」
+
+# @vS032_M1_0006「！　…ゲスめ！！」
+# TL NOTE: M
+@vS032_M1_0006「! ...Scum!!」
+
+# 「そのゲスに、辱めを受けるんだぜ…ほら」
+# TL NOTE: (Y)
+「That scum is going to humiliate you...ha!」
+
+# 男は胸をすくいとって鷲掴みにする。
+# TL NOTE: -------------
+I grope my prisoner's breasts.
+
+# @vS032_M1_0007「ち…！　く…う」
+# TL NOTE: M
+@vS032_M1_0007「Chi...! Kuuuu...uuuu」
+
+# 「どうだ。このナオーエ＝ヤマート様の愛撫は…」
+# TL NOTE: (Y)
+「How do you like it? The touch of Naoe Yamato?」
+
+# @vS032_M1_0008「ふ…ふん。ただ力任せに揉むだけで、何が愛撫だ」
+# TL NOTE: M
+@vS032_M1_0008「Fu...Fuun. What touch? This is nothing but brute force.」
+
+# @vS032_M1_0009「そんなもので…ン…女は…悦ばないと知りなさい…」
+# TL NOTE: M
+@vS032_M1_0009「This is why...nn...the women... knew not to speak.」
+
+# 「ではこちらはどうだ？」
+# TL NOTE: (Y)
+「How about this?」
+
+# 男がズボン越しに、女の尻穴付近を指で突ついた。
+# TL NOTE: -------------------
+I flutter around the woman's buttocks with my fingers.
+
+# @vS032_M1_0010「ふぅっ……」
+# TL NOTE: M
+@vS032_M1_0010「Fuuuuu......」
+
+# 「ほう、可愛い声を出したな」
+# TL NOTE: (Y)
+「Hoo, what a cute voice.」
+
+# @vS032_M1_0011「く…貴様ぁ」
+# TL NOTE: M
+@vS032_M1_0011「Kuuu...bastard.」
+
+# 「どうやらアナルが弱いらしいな…このメスは」
+# TL NOTE: (Y)
+「So anal is your weak spot...isn't it?」
+
+# @vS032_M1_0012「調子に乗って…後で覚えておけよ…」
+# TL NOTE: M
+@vS032_M1_0012「Doing whatever you want... you'll remember this later...」
+
+# 「あぁ、是非忘れないでくれ、俺の肉棒の味もな」
+# TL NOTE: (Y)
+「Oooh, I'll remember it. And you'll remember the taste of my meat stick.」
+
+# そうして、また張りのあるバストを揉みしだく。
+# TL NOTE: ------------------
+And so, the tension of the situation escalates.
+
+# @vS032_M1_0013「んぅ…やめろ…やめろ…」
+# TL NOTE: M
+@vS032_M1_0013「No...stop it...stop it...」
+
+# 「乳首が勃ってきているぞ、ほら」
+# TL NOTE: (Y)
+「Your nipples are getting hard, huh?」
+
+# @vS032_M1_0014「くあっ。あッ、つまむな…ンン…」
+# TL NOTE: M
+@vS032_M1_0014「Kuaaah! Aauu, don't pinch...them...」
+
+# 女の言う事を聞くはずもなく、男はこってりと胸を揉みしだいた。
+# TL NOTE: ---------------------------
+I ignore the woman's pleas, and began to fondle her chest.
+
+# 身動きできないマルギッテは、乳房をこねまわす男の愛撫を耐えるしかなかった。
+# TL NOTE: -----------------------------------
+Margit, contrained, has no choice but to endure the caress of the man groping her.
+
+# @vS032_M1_0015「…ふぅ……はぁ……はぁ……はぁ」
+# TL NOTE: M
+@vS032_M1_0015「...foo...haa...haa...haa」
+
+# 「少しずついい気分になってきたみたいだな」
+# TL NOTE: (Y)
+「It seems like you're feeling better, little by little」
+
+# ジーンズ越しにしつこく尻肉を揉まれる。
+# TL NOTE: ---------------
+I grope her meaty buns through her jeans.
+
+# @vS032_M1_0016「くぅ…でたらめを…言うな」
+# TL NOTE: M
+@vS032_M1_0016「Kuuuu...don't spew that...bullshit...」
+
+# マルギッテはジーンズを脱がされてしまった。
+# TL NOTE: -----------------
+I strip Margit of her jeans.
+
+# 「素晴らしい肉体だ。兵士だけやっているのは勿体無いぞ」
+# TL NOTE: ------------------------
+「You have a beautiful body. It's wasted on a soldier.」
+
+# 男が、むちむちの女尻に顔を埋める。
+# TL NOTE: -------------
+I bury my face in the woman's ass.
+
+# @vS032_M1_0017「ぐっ、離れろ…この…」
+# TL NOTE: ---------------
+@vS032_M1_0017「Guu...get away... from me...」
+
+# 女はいやいやと尻を振るが、それはかえって男を喜ばせるだけだった。
+# TL NOTE: -----------------------------
+The woman tries to shake me away, but this only serves to pleasure me.
+
+# ふとももや腰を味わうように男がキスをしていく。
+# TL NOTE: -------------------
+I sample her thighs and hips as if tasting them.
+
+# @vS032_M1_0018「…ンっ、う、変態め」
+# TL NOTE: M
+@vS032_M1_0018「..nnh...uu...pervert.」
+
+# 「下着越しの愛撫でも、そこまで敏感なのか」
+# TL NOTE: (Y)
+「So you're sensitive here, even through your underwear, huh?」
+
+# @vS032_M1_0019「うるさい」
+# TL NOTE: M
+@vS032_M1_0019「Shut it.」
+
+# 「さて、これも脱いでもらおうか」
+# TL NOTE: (Y)
+「Well, let's take this off as well.」
+
+# 男は、下着に手をかけた。
+# TL NOTE: --------
+I grab her undergarments.
+
+# @vS032_M1_0020「…っ、そ、それは」
+# TL NOTE: M
+@vS032_M1_0020「...tchh...t-that's...」
+
+# するする、とゆっくりゆっくりおろしていく。
+# TL NOTE: -----------------
+Slowly but surely, I remove them.
+
+# 「とうとう丸見えになったな」
+# TL NOTE: (Y)
+「At last, the full view.」
+
+# @vS032_M1_0021「………！」
+# TL NOTE: M
+@vS032_M1_0021「......!」
+
+# 「悔しそうだな。睨む事しかできないか」
+# TL NOTE: (Y)
+「That's quite a scary glare.」
+
+# 男が、尻肉をむにりと割り開いた。
+# TL NOTE: ------------
+I spread her ass cheeks wide.
+
+# @vS032_M1_0022「…っ、くぅ、や、やめろっ…見るな！」
+# TL NOTE: M
+@vS032_M1_0022「...kuuuh...s-stop...don't look!」
+
+# 「いいアナルだ。見られて恥ずかしいのか？　ヒクついているぞ」
+# TL NOTE: (Y)
+「It's a nice ass. Embarrassed to show it? You're trembling.」
+
+# @vS032_M1_0023「…変態か、貴様…くぅっ！？　触るな！！」
+# TL NOTE: M
+@vS032_M1_0023「...Pervert! Bastard!... Kukuu!? Don't touch it!!」
+
+# 「いい反応だ。揉んでやろう」
+# TL NOTE: (Y)
+「That's a good reaction. Let's rub it some more.」
+
+# @vS032_M1_0024「や、やめッ…んあっ…あぁ。あぅ！！」
+# TL NOTE: M
+@vS032_M1_0024「N-no...naaaaa...aaaaaa. Aaau!!」
+
+# 好き放題にアナルを指で揉み込まれる。
+# TL NOTE: --------------
+My fingers slip into her anus, as if swallowed.
+
+# 「気の強い女はここが弱いというがなるほど」
+# TL NOTE: (Y)
+「I see, so the strong woman is actually weak.」
+
+# @vS032_M1_0025「だ、誰のせいだと思っているんですか」
+# TL NOTE: M
+@vS032_M1_0025「W-whose fault do you think that is?」
+
+# 「こらこら素が出ているぞ。もっと没入せい」
+# TL NOTE: (Y)
+「There's quite a lot coming out. Looks like we can continue.」
+
+# @vS032_M1_0026「…まったくもう」
+# TL NOTE: M
+@vS032_M1_0026「...What do you mean?」
+
+# 「ごほん…さていつの間にかこちらが濡れている」
+# TL NOTE: (Y)
+「Hohou...you've been wet for a while now.」
+
+# @vS032_M1_0027「んっ、やめろ…っ」
+# TL NOTE: M
+@vS032_M1_0027「No... don't...」
+
+# 「味わわせてもらうぞマルギッテ・エーベルバッハ」
+# TL NOTE: --------------------
+「I'll help myself to a private tasting of Margit Eberbach.」
+
+# 膨れあがった亀頭が、秘裂の中へと侵入していく。
+# TL NOTE: -------------------
+My war machine penetrates her secret passage.
+
+# @vS032_M1_0028「あっ…く、う、うぅ…抜きなさい…」
+# TL NOTE: M
+@vS032_M1_0028「Aau...kuuuu...pull it out...」
+
+# 汗がにじんだヒップをがっしり抱えこんで、少しずつ、少しずつ挿入していく。
+# TL NOTE: ---------------------------------
+Holding her sweat-tinged hips, I insert myself, little by little.
+
+# @vS032_M1_0029「…んっ、くうっ、あ、あぁっ…！」
+# TL NOTE: M
+@vS032_M1_0029「..nnh...kuuaaaah...aaaa...AAaaauu...!」
+
+# 「まだ半分ぐらいだぞ」
+# TL NOTE: (Y)
+「It's still only halfway there.」
+
+# ある程度の所で動きをとめて、桃尻をなで回した。
+# TL NOTE: -------------------
+I stop moving momentarily to stroke her derriere.
+
+# @vS032_M1_0030「…はぁ、はぁ…貴様っ…」
+# TL NOTE: M
+@vS032_M1_0030「...haaa...haaa...bastard...」
+
+# 「素晴らしい張りだ。ドイツ恐るべしだな」
+# TL NOTE: (Y)
+「It's extremely tight. Germany is scary.」
+
+# ズン、と肉棒を根元までハメこんだ。
+# TL NOTE: -------------
+My flesh rod finally meets her core.
+
+# @vS032_M1_0031「っ！　ああぁぁっ」
+# TL NOTE: M
+@vS032_M1_0031「Ngh! Aaaaaaaauuu」
+
+# パン、パン、と剥き出しのヒップへ腰を叩きつけていく。
+# TL NOTE: ----------------------
+PAP. PAP. Our bare hips slap against each other.
+
+# @vS032_M1_0032「んっ、くうっ、あっ、あぁっ…」
+# TL NOTE: M
+@vS032_M1_0032「Nngh...kuuu...aaahn... aaaauu...」
+
+# 「こうすると気持ち良さそうだな」
+# TL NOTE: (Y)
+「Looks like it feels good.」
+
+# 子宮をノックするように突きをいれた。
+# TL NOTE: --------------
+I thrust in, knocking on her uterus.
+
+# @vS032_M1_0033「…っ、奥に…当たる…んっ…ふぅっ…」
+# TL NOTE: M
+@vS032_M1_0033「...ngh...it's hitting... ...the back...fuuu...」
+
+# 「感じてないか？　責められるのに？」
+# TL NOTE: (Y)
+「Are you feeling it? Feeling me?」
+
+# @vS032_M1_0034「…っ、そんなことは…ないっ…」
+# TL NOTE: M
+@vS032_M1_0034「...unngh...that's nooot...ittt...」
+
+# 深い所を犯したら、今度は入り口付近を入念にこすってみる。
+# TL NOTE: -------------------------
+From her deepest place, I move back to her entrance.
+
+# @vS032_M1_0035「っ…くっ、か、感じてなど、いる…ものか」
+# TL NOTE: M
+@vS032_M1_0035「nngh...kuu...kaa...not feeling... aany...thiiing.」
+
+# 白いヒップがびくびくっと震えていた。
+# TL NOTE: --------------
+Her pale hips tremble.
+
+# 「動く度に、バストがたぷんと揺れて、いやらしい女だ。こっちもかまってやらないとな」
+# TL NOTE: (Y)
+「Every time I move, your tits jiggle around. What a nasty woman. What if we do this?」
+
+# 双乳を両手でわしっとつかんで、むにむにと揉み回す。
+# TL NOTE: ---------------------
+I grab her twin milk bags with my hands and rub.
+
+# @vS032_M1_0036「くっ、ン…ん、覚えていろ…貴様…絶対に許さな…」
+# TL NOTE: M
+@vS032_M1_0036「kuhn...nn...I'll remember this... bastard... absolutely unforgivable...」
+
+# 「なんだって？」
+# TL NOTE: (Y)
+「What was that?」
+
+# @vS032_M1_0037「んっ、あぁっ……くぅつ…」
+# TL NOTE: -----------------
+@vS032_M1_0037「nngh...aaaauu...kuuuuu...」
+
+# 腰を激しく動かして、言葉を出させない。
+# TL NOTE: ---------------
+I move my hips violently, not giving her a chance to speak.
+
+# 乳首をキュッとつかんで、指でコリコリと刺激する。
+# TL NOTE: --------------------
+I grab her nipples and stimulate them with my fingers.
+
+# @vS032_M1_0038「あ、あぁ、そ、そこは…くっ。あっ」
+# TL NOTE: M
+@vS032_M1_0038「Aa...aaaaa...t-that's...kuuugh...Aaah」
+
+# 下半身は、ねばっこくピストン運動をしていく。
+# TL NOTE: ------------------
+My lower half pumps like a piston.
+
+# 「可愛い声だな猟犬、マゾなんじゃないか」
+# TL NOTE: (Y)
+「What a cute voice, is the Hound actually just a masochist?」
+
+# @vS032_M1_0039「勝手な事を…ンっ、あっ、あっ、あ」
+# TL NOTE: ---------------------
+@vS032_M1_0039「Doing what you want to me...nn...aa...aa...aa」
+
+# 白い肌がピンクに上気し、女体がビクビクと反応する。
+# TL NOTE: ---------------------
+Her white skin turns pink, and her body jerks around.
+
+# @vS032_M1_0040「やめなさい、んっ、くっ、あ」
+# TL NOTE: M
+@vS032_M1_0040「Stop it...ngh...kuu...aa」
+
+# 甘く香る美しい髪、柔肌に浮かぶ汗。全てが男の本能を刺激する。
+# TL NOTE: ---------------------------
+Sweet and fragrant hair, sweat floating on soft skin. All of this stimulates my male instincts.
+
+# 突きを撃ち込むたびに、豊麗なバストが揺れる。やはり、男の目は何度もそこへいってしまう。
+# TL NOTE: ----------------------------------------
+With every thrust, her ass ripples. To be expected, my eyes can't help but dart back to it.
+
+# 再び両手でがしっ、と掴んで、揉みしだきながら、腰を動かしていく。
+# TL NOTE: -----------------------------
+Once again, I grab her hips with both hands while moving.
+
+# @vS032_M1_0041「くあぁぁっ、す、凄い……ん、く、うううっ」
+# TL NOTE: M
+@vS032_M1_0041「Kuaaaaaauu...tsu...amazing... ...nnn...ku...uuuuuuuu」
+
+# ペニスの先端が子宮口をぐりぐりと刺激している。
+# TL NOTE: -------------------
+The tip of my sword tickles the entrance to her womb.
+
+# 「ほら、やっぱり感じてるんだ」
+# TL NOTE: (Y)
+「Hey, I actually feel it.」
+
+# @vS032_M1_0042「嘘だ、そんなこと…っ、んっ、あぅ」
+# TL NOTE: M
+@vS032_M1_0042「You lie...that's not possible...ngh...nnn...aau」
+
+# ピストンの、ひと突きひと突きを、力強く。
+# TL NOTE: ----------------
+My piston pounds powerfully.
+
+# 「ほらもっと尻をあげるんだ」
+# TL NOTE: (Y)
+「Hey, give me more of your ass.」
+
+# @vS032_M1_0043「ん、あ、あ、あ……はあっ……」
+# TL NOTE: M
+@vS032_M1_0043「Nnn...aaaa...aaaa...aaaaaa...... waaauuuu.......」
+
+# マルギッテは言われるままに、男に差し出すように、腰をぐっと突きあげた。
+# TL NOTE: --------------------------------
+Margit, as told, obediently slams her waist back at me.
+
+# 「もう素直になってきたか」
+# TL NOTE: ---------
+「Finally ready to be honest with yourself, huh?」
+
+# @vS032_M1_0044「く、うっ、違う…あっ、くっ、ンッ…」
+# TL NOTE: M
+@vS032_M1_0044「Ku...uuu...that's not...it...kuu...nugh...」
+
+# 「締め付けてきて、たまらんな…よし、１度射精するぞ」
+# TL NOTE: (Y)
+「I can't hold it in...I'm gonna cum!」
+
+# ぱんっ、ぱんっ、ぱんっ、ぱんっ！
+# TL NOTE: ------------
+PAP! PAP! PAP! PAP!!
+
+# @vS032_M1_0045「や、やめろ…中には…あっ、あぁっ、あああっ、だ、だめっ…ダメですっ…だめっ…」
+# TL NOTE: --------------------------------------------
+@vS032_M1_0045「N-not...inside...aaau...aaAAuu...AAAAAAUU... d-doon...doooon't...dooooon't...」
+
+# ビュルルルルっ！！！！
+# TL NOTE: -------
+SPLURT!!!!
+
+# @vS032_M1_0046「っ！　くぅぅっ…あっ、うっ、う」
+# TL NOTE: M
+@vS032_M1_0046「NGH!! Kuugh...auu...uuu...uu」
+
+# 「搾り取られるようだ。これではどっちが拷問されているんだか…」
+# TL NOTE: (Y)
+「You're squeezing it all out. I don't know which one of us is being tortured.」
+
+# @vS032_M1_0047「…あ、あぁ…熱い……」
+# TL NOTE: M
+@vS032_M1_0047「...aa...aaaa...it's hot......」
+
+# そうして、今度はアナルに肉棒をセットし、挿入する。
+# TL NOTE: ---------------------
+And then, I stab my meat musket... ...into her back door.
+
+# @vS032_M1_0048「…くああっ、き、貴様、そこまでやるのか…く」
+# TL NOTE: --------------------------
+@vS032_M1_0048「...kuaaaau...kii...bastard... How far are you going to go...kuuuu」
+
+# 肉棒を光らせている愛液の滑りで、尻穴の中を進んでいく。
+# TL NOTE: -----------------------
+Polished by her love juices, my flesh flute pierces her rear.
+
+# @vS032_M1_0049「ンッ……！！！！　う、ああああ」
+# TL NOTE: M
+@vS032_M1_0049「NNGH......!!!! Uuuu...aaaaaaaa」
+
+# 「こっちは、さらに締め付けてくるじゃないか」
+# TL NOTE: (Y)
+「This hole is even tighter!」
+
+# 腰を打ち付けていくと、締まった入り口がキュッと刺激してくる。
+# TL NOTE: ---------------------------
+As I slam into her hips, her tight entrance stimulates me.
+
+# @vS032_M1_0050「う、あっ、あっ、んはぁっ、な、中で動かすな…ん」
+# TL NOTE: ----------------------------
+@vS032_M1_0050「Uu...aau...aau...nhaau...hey...don't move around so much...nn」
+
+# 粘膜全体に包まれている感覚。
+# TL NOTE: ----------
+I feel the sensation of her entire mucous membrane around me.
+
+# 「くっ、うっ、ううっ…たまらん」
+# TL NOTE: ------------
+「Kuu...uuu...Uuuuu...I can't...」
+
+# カリの部分で粘膜を丹念に擦っていく。
+# TL NOTE: --------------
+I carefully probe her flesh cavern with my cave raider.
+
+# @vS032_M1_0051「ん…あっ、そんなに奥を…く、うっ」
+# TL NOTE: M
+@vS032_M1_0051「Nn...aau...so deep...kuu...uuu」
+
+# そうして今度は入り口の部分をカリで擦り上げる。
+# TL NOTE: -------------------
+Then, I back out of her rear entrance with my twat toothbrush.
+
+# @vS032_M1_0052「うっ、そこばかり、ン、こするな」
+# TL NOTE: M
+@vS032_M1_0052「UUu...don't rub it... nn...there...」
+
+# 引き抜かれる直前に、また腰を使って埋めていく。
+# TL NOTE: -------------------
+Right before pulling out of her, I use my hips @nto fill her all the way up again.
+
+# 「気持ちいいんだろ？　尻でも感じている」
+# TL NOTE: (Y)
+「It feels good, doesn't it? My cock in your ass.」
+
+# @vS032_M1_0053「んっ、そんな事は、ありませんっ…感じてなど」
+# TL NOTE: M
+@vS032_M1_0053「Nnu...there's no way...it could...feel good」
+
+# 揺れる両胸をいじりながら、腰を小刻みに動かした。
+# TL NOTE: --------------------
+While exploring her shaking bosom, I slowly move my hips.
+
+# @vS032_M1_0054「くっ、うっ、そんなに…突かれたら…んんっ…くぅっ、あっ、あぁぁっ…」
+# TL NOTE: ---------------------------------------
+@vS032_M1_0054「Kuu...Uuu...if you do that... I'm going to...NNnnu...KUu...Aau...AAAaaau...」
+
+# 「もう、だすぞ」
+# TL NOTE: (Y)
+「I see. I'll take it out...」
+
+# とどめとばかりに、腰を深く打ち込んだ。
+# TL NOTE: ---------------
+I stop moving deep inside of her.
+
+# @vS032_M1_0055「んくっ！！！」
+# TL NOTE: M
+@vS032_M1_0055「NNKUUU!!!」
+
+# そして、最奥で、したたかに精液を放つ。
+# TL NOTE: ---------------
+And so, I release my semen in her behind.
+
+# @vS032_M1_0056「あぐっ……んぁ、あ、あぁああああ―――っ！！」
+# TL NOTE: ---------------------------
+@vS032_M1_0056「CUMMING...NNAA...AAAAA... ...AAAAaaAAAAAAAAAAaaaau!!」
+
+# びゅるるる、と中に精液が送り込まれていく。
+# TL NOTE: -----------------
+SPLURT! My semen is delivered into her deepest parts.
+
+# @vS032_M1_0057「うぁっ…あっ、あぁぁっ…あ」
+# TL NOTE: ------------------
+@vS032_M1_0057「Uuaau...Aau...Aaaaaau...aa」
+
+# 乳房を揉みながら射精を続ける。
+# TL NOTE: -----------
+I grope her as I continue to ejaculate.
+
+# @vS032_M1_0058「はぁ…はぁ…はぁ…はぁ…熱い…」
+# TL NOTE: M
+@vS032_M1_0058「haa...haa...haaa...ha...hot...」
+
+# 女のアナルは射精されている間にもヒクついて、肉棒を締め付けていた。
+# TL NOTE: ------------------------------
+While climaxing, she tightens around my member.
+
+# @vS032_M1_0059「んん、まだ、出ている…」
+# TL NOTE: M
+@vS032_M1_0059「Nnnn...it's still...coming out...」
+
+# その動きで、精液すべてが、アナルの中に放たれていった。
+# TL NOTE: -----------------------
+With that, all of my remaining sperm is deposited deep into her.
+
+# 「……ふぅ、食べごたえのある女だったな」
+# TL NOTE: (Y)
+「......fuuu, what a delicious woman.」
+
+# 注ぎ込むだけ注ぎ込むと、中からペニスを引き抜いた―。
+# TL NOTE: ----------------------
+Completely empty, I withdraw my penis.
+
+# ReplayMode.bin
+# TL NOTE: ---
+ReplayMode.bin
+
+# ………………。
+# TL NOTE: ---
+......
+
+# 「今回のプレイ最高だったよマルさん」
+# TL NOTE: Y
+「That was the best, Maru-san!」
+
+# @vS032_M1_0060「……」
+# TL NOTE: M
+@vS032_M1_0060「......」
+
+# 「マルさん？」
+# TL NOTE: Y
+「Maru-san?」
+
+# @vS032_M1_0061「１度でいいから、ということで行ったまで。クセになってもこんな愛し方、もうやらないと心得なさい」
+# TL NOTE: M
+@vS032_M1_0061「For a one time thing, this was okay. But we cannot make this a habit.」
+
+# 「エッ」
+# TL NOTE: Y
+「Eeh?」
+
+# @vS032_M1_0062「だいたい私が捕虜になるなど、ありえない」
+# TL NOTE: M
+@vS032_M1_0062「For one, it'd be almost impossible for me to get taken prisoner.」
+
+# 「マルさん、最後の方、ノリノリだったのに」
+# TL NOTE: Y
+「Maru-san, never again? Even though it was so incredible?」
+
+# @vS032_M1_0063「ど、ドイツの猟犬はたとえプレイでも、されるがままではないということです」
+# TL NOTE: M
+@vS032_M1_0063「T-the German Hounds, even if we're role-playing, aren't a joke.」
+
+# 「火がつくと凄いからなぁ」
+# TL NOTE: Y
+「You're amazingly passionate about this.」
+
+# @vS032_M1_0064「もう寝るぞ…」
+# TL NOTE: M
+@vS032_M1_0064「Let's just sleep...」
+
+# 「…うん」
+# TL NOTE: -
+「...Yeah.」
+
+# @vS032_M1_0065「…」
+# TL NOTE: ------
+@vS032_M1_0065「...」
+
+# 「…」
+# ------
+「...」
+
+# 二人とも、見つめ合って、そして眠くなっていく。
+# TL NOTE: -------------------
+We gaze at each other as we fall asleep.
+
+# マルギッテ・エーベルバッハ。
+# TL NOTE: ----------
+Margit Eberbach.
+
+# 愛しい、俺の彼女……。
+# TL NOTE: -------
+My precious...girlfriend......
+
+# …………。
+# TL NOTE: -
+......
+
+# M1_1007_1
+# TL NOTE: -
+M1_1007_1
+
+# .bin
+# ----
+.bin
+
+# ,
+# -
+,
+
