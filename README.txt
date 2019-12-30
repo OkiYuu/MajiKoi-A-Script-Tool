@@ -13,18 +13,21 @@ that folder. The python source code was written for python 2.7
 Portable Python Source: https://portablepython.com/wiki/Download/
 Alternatively use Python 2.7 by yourself by editing the batch file
 
+USAGE:
+Run MajiKoi A Script Tool.bat and follow prompts
+
 DEFAULT FOLDER STRUCTURE:
 ROOT
->EDIT
->>SUBDIRECTORIES FOR TRANSLATION
->IN
->>RAW .bin FILES
->OUT
->>RAW EDITED .bin FILES
->source
->>pp27 (put portable python here for easy debugging)
->>main.py (python source code for program)
->>main.exe (compiled code for universal access)
->>script_ex.txt (example block for translation .txt output)
->MajiKoi A Script Tool.bat
->README.txt (this)
+  >EDIT
+    >>SUBDIRECTORIES FOR TRANSLATION
+  >IN
+    >>RAW .bin FILES
+  >OUT
+    >>RAW EDITED .bin FILES
+  >source
+    >>pp27 (put portable python here for easy debugging)
+    >>main.py (python source code for program)
+    >>main.exe (compiled code for universal access)
+    >>script_ex.txt (example block for translation .txt output)
+  >MajiKoi A Script Tool.bat
+  >README.txt (this)
